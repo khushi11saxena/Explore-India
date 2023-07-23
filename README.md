@@ -1,5 +1,3 @@
-# Explore-India
-
 # Explore India
 
 ![Explore India screenshot](./assets/explore-india-screenshot.png)
@@ -34,10 +32,6 @@ This project is built using pure HTML, CSS, and JavaScript without the use of an
 
 2. **Open https://khushi11saxena.github.io/Explore-India/ in your browser:**
 
-   
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact
 
