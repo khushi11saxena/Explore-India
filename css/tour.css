@@ -89,7 +89,7 @@ nav a:hover {
   grid-template-columns: repeat(2, 1fr);
 }
 
-/*****************slide show info part**********************************/
+/*****************slide show info part**********************************
 
 .picu {
   padding-left: auto;
@@ -99,12 +99,12 @@ nav a:hover {
   display: grid;
   padding-left: 550px;
   padding-top: 20px;
-}
+}*/
 .leh1 {
   font-family: "Montserrat", sans-serif;
   color: #ffffff;
   font-weight: bold;
-  font-size: 3rem;
+  font-size:3rem;
 }
 
 /*****************About**********************************/
