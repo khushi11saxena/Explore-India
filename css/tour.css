@@ -89,7 +89,7 @@ nav a:hover {
   grid-template-columns: repeat(2, 1fr);
 }
 
-/*****************slide show info part**********************************/
+/*****************slide show info part**********************************
 
 .picu {
   padding-left: auto;
@@ -99,7 +99,7 @@ nav a:hover {
   display: grid;
   padding-left: 550px;
   padding-top: 20px;
-}
+}*/
 .leh1 {
   font-family: "Montserrat", sans-serif;
   color: #ffffff;
@@ -114,7 +114,12 @@ nav a:hover {
   grid-template-columns: repeat(3, 1fr);
   column-gap: 80px;
 }
-
+@media only screen and (max-width: 800px){
+  .grid-3-cols {
+    display: flex;
+    flex-direction: column;
+  }
+}
 .headings {
   font-family: "Montserrat", sans-serif;
   color: #854d1c;
