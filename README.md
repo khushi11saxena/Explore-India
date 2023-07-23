@@ -1,6 +1,6 @@
 # Explore India
 
-![Explore India screenshot](./assets/explore-india-screenshot.png)
+![Explore India screenshot](/Screenshot 2023-07-23 201357.png)
 
 ## Description
 
